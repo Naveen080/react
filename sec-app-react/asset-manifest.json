@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sec-app-react/static/css/main.5379e78c.chunk.css",
+    "main.js": "/sec-app-react/static/js/main.393f66ac.chunk.js",
+    "main.js.map": "/sec-app-react/static/js/main.393f66ac.chunk.js.map",
+    "runtime-main.js": "/sec-app-react/static/js/runtime-main.7a0a00ce.js",
+    "runtime-main.js.map": "/sec-app-react/static/js/runtime-main.7a0a00ce.js.map",
+    "static/css/2.d3b1b87c.chunk.css": "/sec-app-react/static/css/2.d3b1b87c.chunk.css",
+    "static/js/2.9374fc9d.chunk.js": "/sec-app-react/static/js/2.9374fc9d.chunk.js",
+    "static/js/2.9374fc9d.chunk.js.map": "/sec-app-react/static/js/2.9374fc9d.chunk.js.map",
+    "index.html": "/sec-app-react/index.html",
+    "precache-manifest.26a05cd9c2e692f6ccf4dae7e03a04b8.js": "/sec-app-react/precache-manifest.26a05cd9c2e692f6ccf4dae7e03a04b8.js",
+    "service-worker.js": "/sec-app-react/service-worker.js",
+    "static/css/2.d3b1b87c.chunk.css.map": "/sec-app-react/static/css/2.d3b1b87c.chunk.css.map",
+    "static/css/main.5379e78c.chunk.css.map": "/sec-app-react/static/css/main.5379e78c.chunk.css.map",
+    "static/js/2.9374fc9d.chunk.js.LICENSE.txt": "/sec-app-react/static/js/2.9374fc9d.chunk.js.LICENSE.txt",
+    "static/media/SEC_Logo.png": "/sec-app-react/static/media/SEC_Logo.57ee9848.png",
+    "static/media/style.css": "/sec-app-react/static/media/fotter_img.ca52fb4d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a0a00ce.js",
+    "static/css/2.d3b1b87c.chunk.css",
+    "static/js/2.9374fc9d.chunk.js",
+    "static/css/main.5379e78c.chunk.css",
+    "static/js/main.393f66ac.chunk.js"
+  ]
+}
