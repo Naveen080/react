@@ -1,0 +1,9 @@
+{
+    "standard.enable": true,
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/1abebf6a-b6f6-47f5-97cb-4960d6af9bc0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/reactonn",
+    "appService.deploySubpath": ""
+}

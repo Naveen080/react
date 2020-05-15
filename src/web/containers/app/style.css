@@ -1,0 +1,35 @@
+.container {
+    /* margin-left: 10%;
+    margin-right: 10%; */
+    /* height: 50vh; */
+    height: calc(100vh - 63vh);
+}
+.react-tabs__tab-list {
+    background-color: red;
+    color: white;
+    text-align: end;
+    padding: 10px;
+}
+.react-tabs__tab--selected {
+    background: red;
+    color: white;
+    border-color:red;
+}
+.desc2 {
+    padding: 5px;
+    text-align: center; 
+  }
+  .fontStyle {
+      font-size:30px; 
+      color:#400080;
+  }
+ li > a{
+      color: white;
+      background-color: red;
+      text-decoration: none;
+  }
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}

@@ -1,0 +1,18 @@
+.homeContainer {
+    text-align: center;
+    /* height: 40vh; */
+    width: 80%;
+    margin: 18px auto;
+    min-height: calc(100vh - 73vh);
+    max-height: calc(100vh - 100vh);
+    max-height: calc(100vh - 39vh);
+    margin-bottom: -28%;
+}
+.quoteColor {
+    color: green;
+}
+.titleStyle {
+    font-size:30px; 
+    color:#400080;
+    margin-top: 20%;
+}

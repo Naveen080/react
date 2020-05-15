@@ -1,0 +1,32 @@
+.aboutPage {
+    background: #ffffff;
+    resize: both;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+    border-radius: 3px;
+    width: auto;
+    max-height: calc(100vh - 39vh);
+    margin-bottom: -28%;
+}
+.desc2 {
+    padding: 5px;
+    text-align: center; 
+  }
+  .fontStyle {
+      font-size:30px; 
+      color:#400080;
+  }
+  @media (max-width:600px) {
+  .aboutPage {
+    background: #ffffff;
+    resize: both;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+    border-radius: 3px;
+    width: auto;
+    max-height: calc(100vh - 39vh);
+    margin-bottom: 4%;
+}
+  }
